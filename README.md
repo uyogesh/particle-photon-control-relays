@@ -1,6 +1,6 @@
 # sk
 
-A Particle project named sk
+A Particle project for controlling 4 relay output and 1 DHT digital input system. 
 
 ## Welcome to your project!
 
